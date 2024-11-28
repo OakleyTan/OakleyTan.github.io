@@ -21,7 +21,7 @@ repository               : "oakleytan/oakleytan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ".profile.png"
+  avatar           : "images/profile.png"
   name             : "Oakley Tan"
   pronouns         : # example: "he/him"  
   bio              : "Undergraduate of Computer Science, Wuhan University"
@@ -50,7 +50,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   : profile.png
+teaser                   : images/profile.png
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
