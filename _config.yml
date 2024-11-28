@@ -21,7 +21,7 @@ repository               : "oakleytan/oakleytan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./profile.png"
+  avatar           : "profile.png"
   name             : "Oakley Tan"
   pronouns         : # example: "he/him"  
   bio              : "Undergraduate of Computer Science, Wuhan University"
