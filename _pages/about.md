@@ -13,9 +13,9 @@ I'm a third-year undergraduate student from [School of Computer Science](https:/
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="fedssp.png" alt="FedSSP Image" width="250">
+    <img src="fedssp.png" alt="FedSSP Image" width="300">
   </div>
-  <div style="margin-left: 20px;">
+  <div style="margin-left: 25px;">
     <a href="https://arxiv.org/pdf/2410.20105" style="color: #0066cc;"><b>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</b></a><br>
     <span style="color: black;"><b><u>Zihan Tan</u></b></span>, <span style="color: gray;">Guancheng Wan, Wenke Huang, Mang Ye</span><br>
     Conference on Neural Information Processing Systems (NeurIPS 2024)
@@ -26,9 +26,9 @@ I'm a third-year undergraduate student from [School of Computer Science](https:/
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src=fedspa.png" alt="FedSPA Image" width="250">
+    <img src="fedspa.png" alt="FedSPA Image" width="300">
   </div>
-  <div style="margin-left: 20px;">
+  <div style="margin-left: 25px;">
     <a href="https://oakleytan.github.io/" style="color: #0066cc;"><b>FedSPA: Generalizable Federated Graph Learning under Homophily Heterogeneity</b></a><br>
     <span style="color: black;"><b><u>Zihan Tan</u></b></span>, <span style="color: gray;">Guancheng Wan, Wenke Huang, Guibin Zhang, He Li, Carl Yang, Mang Ye</span><br>
     Under review, 2024
