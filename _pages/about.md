@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year undergraduate student from [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My research interests include federated learning, graph learning, AI for science.
+Greetings! I'm glad you're here to learn about my work! I'm a third-year undergraduate student from [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My research interests include federated learning, graph learning, AI for science, LLM agents.
 
 ## Publications & Preprints
 
@@ -26,7 +26,7 @@ I'm a third-year undergraduate student from [School of Computer Science](https:/
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="fedspa.png" alt="FedSPA Image" width="300">
+    <img src="fedspa.png" alt="FedSPA Image" width="280">
   </div>
   <div style="margin-left: 25px;">
     <a href="https://oakleytan.github.io/" style="color: ##0969DA;"><b>FedSPA: Generalizable Federated Graph Learning under Homophily Heterogeneity</b></a><br>
