@@ -18,7 +18,7 @@ I'm a third-year undergraduate student from [School of Computer Science](https:/
   <div style="margin-left: 25px;">
     <a href="https://arxiv.org/pdf/2410.20105" style="color: ##0969DA;"><b>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</b></a><br>
     <span style="color: black;"><b><u>Zihan Tan</u></b></span>, <span style="color: gray;">Guancheng Wan, Wenke Huang, Mang Ye</span><br>
-    Conference on Neural Information Processing Systems (NeurIPS 2024)
+    NeurIPS 2024
   </div>
 </div>
 
