@@ -13,7 +13,7 @@ I'm a third-year undergraduate student from [School of Computer Science](https:/
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/fedssp.png" alt="FedSSP Image" width="250">
+    <img src="fedssp.png" alt="FedSSP Image" width="250">
   </div>
   <div style="margin-left: 20px;">
     <a href="https://arxiv.org/pdf/2410.20105" style="color: #0066cc;"><b>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</b></a><br>
@@ -26,7 +26,7 @@ I'm a third-year undergraduate student from [School of Computer Science](https:/
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="/images/fedspa.png" alt="FedSPA Image" width="250">
+    <img src=fedspa.png" alt="FedSPA Image" width="250">
   </div>
   <div style="margin-left: 20px;">
     <a href="https://oakleytan.github.io/" style="color: #0066cc;"><b>FedSPA: Generalizable Federated Graph Learning under Homophily Heterogeneity</b></a><br>
