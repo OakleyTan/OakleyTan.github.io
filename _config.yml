@@ -12,7 +12,7 @@ title                    : "Zihan Tan"
 title_separator          : "-"
 name                     : &name "Zihan Tan"
 description              : &description "Undergraduate of Computer Science, Wuhan University"
-url                      : "https://oakleytan.github.io/"
+url                      : https://oakleytan.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oakleytan/oakleytan.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Undergraduate of Computer Science, Wuhan University"
   location         : "Wuhan, China"
   employer         : "Wuhan University"
-  uri              : https://oakleytan.github.io/
+  URI              : "https://oakleytan.github.io/"
   email            : "zihantan@whu.edu.cn" 
 
   # Academic websites
