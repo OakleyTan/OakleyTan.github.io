@@ -35,7 +35,7 @@ Greetings! I'm glad you're here to learn about my work! I'm a third-year undergr
 
 <div style="display: block;">
   <div>
-    <img src="fedspa.png" alt="FedSPA Image" width="800">
+    <img src="S2FGL.png" alt="S2FGL Image" width="800">
   </div>
   <div style="margin-top: 10px;">
     <a href="https://oakleytan.github.io/" style="color: #0969DA;"><b>S2FGL: Spacial Spectral Federated Graph Learning</b></a><br>
