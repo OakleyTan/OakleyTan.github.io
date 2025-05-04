@@ -40,6 +40,6 @@ Greetings! I'm glad you're here to learn about my work! I'm a third-year undergr
   <div style="margin-top: 10px;">
     <a href="https://oakleytan.github.io/" style="color: #0969DA;"><b>S2FGL: Spacial Spectral Federated Graph Learning</b></a><br>
     <span style="color: black;"><b><u>Zihan Tan</u></b></span>, <span style="color: gray;">Suyuan Huang, Guancheng Wan, Wenke Huang, He Li, Mang Ye</span><br>
-    Under Review 2025
+    ICML 2025
   </div>
 </div>
